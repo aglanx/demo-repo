@@ -1,7 +1,7 @@
 # Demo
 
 Some sample information in this file.
-
-Bla bla bla bla!
+# Notes
+The heading has since changed!
 
 Added another line of code....
